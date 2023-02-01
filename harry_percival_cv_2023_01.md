@@ -18,7 +18,7 @@ Lead software engineer & architect. TDD. DDD.  Infra/CD/devops. Author of two O'
 
 ### March 2021 - present : Tech Lead, Arrival
 
-* Tech lead helping agile teams to deliver in a innovative electic vehicle startup.
+* Tech lead helping agile teams to deliver in a innovative electric vehicle startup.
 * Deepened experience with Functional Programming (FP) - Haskell & Elm; developed functional patterns + practices in Python
 * Coaching & mentoring junior team members, pair programming at all levels
 * Driving adoption of agile ways of working, focus on delivery
