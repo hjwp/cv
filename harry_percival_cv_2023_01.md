@@ -22,8 +22,10 @@ Lead software engineer & architect. TDD. DDD.  Infra/CD/devops. Author of two O'
 * Deepened experience with Functional Programming (FP) - Haskell & Elm; developed functional patterns + practices in Python
 * Coaching & mentoring junior team members, pair programming at all levels
 * Driving adoption of agile ways of working, focus on delivery
+* Eg led a project to deliver short-term value to the composites programme by re-using existing core simulation/domain logic and infrastructure for a brand new use case.
 * Drove innovations in distributed systems architecture, eg a project to build abstractions around container orchestration to be able to swap out Kubernetes for Tekton for Docker
-* Cultivated internal knowledge sharing initiatives - Learning Programming community/workshops/coaching, Software Engineering forum + book club
+* Focus on feedback cycles:  accelerating CI, speeding up tests, optimising container builds, etc.
+* Cultivated internal knowledge sharing initiatives amongs the wider dept + company - Learning Programming community/workshops/coaching, Software Engineering forum + book club
 
 
 ### March 2018 - 2021 : Tech Lead / Architect, MADE.com
